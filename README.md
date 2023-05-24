@@ -8,4 +8,4 @@ Used HTML and CSS to create this project.
 
 My Frontend Mentor Profile: [EmpSwarup](https://www.frontendmentor.io/profile/EmpSwarup)
 
-[Live Demo](https://www.frontendmentor.io/profile/EmpSwarup)
+[Live Demo](https://empswarup.github.io/qr-code-frontendmentor/)
